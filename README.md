@@ -1,5 +1,11 @@
 # Code Bloom — meu jardim de C#
 
+[![Jogar Code Bloom](https://img.shields.io/badge/%F0%9F%8C%B1_Jogar_Code_Bloom-8a72bc?style=for-the-badge)](https://alicegray-ux.github.io/code-bloom/)
+
+**[🌱 Clique aqui para iniciar o jogo](https://alicegray-ux.github.io/code-bloom/)**
+
+No celular, abra o link no navegador. Não é necessário instalar nada para jogar.
+
 Repositório: https://github.com/alicegray-ux/code-bloom
 
 Um aplicativo de estudo em português brasileiro com lições curtas, Mimi (uma gatinha), revisões espaçadas e um jardim que floresce com o aprendizado. Sem anúncios, compras, servidor .NET ou APIs pagas.
@@ -95,3 +101,4 @@ Na entrega inicial, a verificação de navegador incluiu conclusão/desbloqueio 
 ## Responsividade no celular
 
 A interface tem layout próprio para telas estreitas, menu lateral recolhível, editor com fonte de 16 px no celular e botões principais com alvos de toque de pelo menos 44 px. Foram verificados os fluxos de lição, menu e editor em viewports de 360 e 390 px, incluindo a ausência de rolagem horizontal na página e na área da lição. O teste foi feito no navegador; aparelhos físicos podem ter diferenças de teclado e área disponível.
+
