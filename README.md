@@ -2,10 +2,6 @@
 
 [![Jogar Code Bloom](https://img.shields.io/badge/%F0%9F%8C%B1_Jogar_Code_Bloom-8a72bc?style=for-the-badge)](https://alicegray-ux.github.io/code-bloom/)
 
-**[🌱 Clique aqui para iniciar o jogo](https://alicegray-ux.github.io/code-bloom/)**
-
-No celular, abra o link no navegador. Não é necessário instalar nada para jogar.
-
 Repositório: https://github.com/alicegray-ux/code-bloom
 
 Um aplicativo de estudo em português brasileiro com lições curtas, Mimi (uma gatinha), revisões espaçadas e um jardim que floresce com o aprendizado. Sem anúncios, compras, servidor .NET ou APIs pagas.
